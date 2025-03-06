@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+    env:
+      DISPLAY: ":99.0"
 
     steps:
     - uses: actions/checkout@v4
