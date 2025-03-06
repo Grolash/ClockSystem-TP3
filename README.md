@@ -1,6 +1,6 @@
-![Build Workflow]https://github.com/Grolash/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg
-
 # ClockSystem
+
+![Build Workflow]https://github.com/Grolash/ClockSystem-TP3/actions/workflows/gradle.yml/badge.svg
 
 This is a gradle-based Java project for a Clock with Swing GUI and JUnit5 unit tests. It has been created and used by Tom Mens for educational purposes at the University of Mons.
 
